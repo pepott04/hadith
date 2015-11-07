@@ -1,0 +1,2 @@
+# hadith
+Index of hadith
